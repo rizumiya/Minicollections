@@ -18,7 +18,7 @@ echo Kata kunci: %lock_key%
 cls
 echo =============== Folder Locker ===============
 echo.
-echo 1. Kunci Folder
+echo 1. Kunci Folder 
 echo 2. Buka Folder
 echo 3. Keluar
 echo.
