@@ -4,7 +4,7 @@ a collection of lightweight applications that cater to everyday needs (well not 
 
 ## Requirements
 
-> customtkinter
-> pillow
-> requests
-> threading
+- customtkinter
+- pillow
+- requests
+- threading
