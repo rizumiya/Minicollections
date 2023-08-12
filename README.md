@@ -1,7 +1,10 @@
 # Minicollections
-a collection of lightweight applications that cater to everyday needs. 
+a collection of lightweight applications that cater to everyday needs (well not really..). 
 
 
 ## Requirements
 
-currently nothing
+> customtkinter
+> pillow
+> requests
+> threading
