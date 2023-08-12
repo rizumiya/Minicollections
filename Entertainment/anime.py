@@ -78,7 +78,7 @@ class MyGUI(ctk.CTk):
         self.tags_lbl = ctk.CTkLabel(self.ordinary_frame, text="Pick a tag")
         self.tags_lbl.place(x=15, y=10)
 
-        self.ddown_tags = ctk.CTkOptionMenu(self.ordinary_frame, values=self.nsfw_tags) # Switch between nsfw or sfw
+        self.ddown_tags = ctk.CTkOptionMenu(self.ordinary_frame, values=self.nsfw_tags) # Ganti nsfw atau sfw disini
         self.ddown_tags.place(x=15, y=40)
 
         self.many_entry = ctk.CTkEntry(self.ordinary_frame, placeholder_text="How many pictures")
